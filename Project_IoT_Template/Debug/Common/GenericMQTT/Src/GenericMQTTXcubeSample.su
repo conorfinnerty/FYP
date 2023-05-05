@@ -1,0 +1,11 @@
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:153:5:cloud_device_enter_credentials	456	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:182:6:app_needs_device_keypair	24	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:216:5:network_read	32	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:238:5:network_write	32	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:257:6:allpurposeMessageHandler	24	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:315:6:genericmqtt_client_XCube_sample_run	320	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:788:5:stiot_publish	48	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:809:5:string_allocate_from_token	40	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:844:5:parse_and_fill_device_config	24	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:893:6:free_device_config	16	static
+../Common/GenericMQTT/Src/GenericMQTTXcubeSample.c:924:9:comp_left_ms	32	static
